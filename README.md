@@ -1,3 +1,3 @@
-# Awezumswivt
+# Awezumswivt - Vaypurh
 
-A description of this package.
+DO NOT TRY THIS AT HOME
